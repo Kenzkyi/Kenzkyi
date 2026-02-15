@@ -37,7 +37,7 @@ I am an innovative Frontend Developer with over a year of experience building im
 ---
 
 ## 📫 Let's Connect!
-* 💼 [LinkedIn Profile]([[LINK_HERE](https://www.linkedin.com/in/augustine-okoye/)])
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/augustine-okoye/)
 * 📄 [Download My Resume](https://docs.google.com/document/d/1eyTd3WREtfPNILZuGd4UHXfHOeym0eJL2X8z33WpNw0/edit?usp=sharing)
 * 📧 ekeneokoye93@gmail.com
 
