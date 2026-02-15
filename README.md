@@ -31,14 +31,14 @@ I am an innovative Frontend Developer with over a year of experience building im
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Kenzkyi]&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenzkyi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzkyi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect!
 * 💼 [LinkedIn Profile]([[LINK_HERE](https://www.linkedin.com/in/augustine-okoye/)])
-* 📄 [Download My Resume]([LINK_TO_Docs](https://docs.google.com/document/d/1eyTd3WREtfPNILZuGd4UHXfHOeym0eJL2X8z33WpNw0/edit?usp=sharing))
+* 📄 [Download My Resume](https://docs.google.com/document/d/1eyTd3WREtfPNILZuGd4UHXfHOeym0eJL2X8z33WpNw0/edit?usp=sharing)
 * 📧 ekeneokoye93@gmail.com
 
 ---
