@@ -36,6 +36,15 @@ I am an innovative Frontend Developer with over a year of experience building im
 
 ---
 
+## 🛠️ Technical Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **State Management** | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Context API](https://img.shields.io/badge/-Context_API-000000?style=flat-square&logo=react) |
+| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+---
+
 ## 📈 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenzkyi&theme=radical)
 
