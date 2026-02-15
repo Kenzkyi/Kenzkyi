@@ -36,6 +36,11 @@ I am an innovative Frontend Developer with over a year of experience building im
 
 ---
 
+## 📈 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenzkyi&theme=radical)
+
+---
+
 ## 📫 Let's Connect!
 * 💼 [LinkedIn Profile](https://www.linkedin.com/in/augustine-okoye/)
 * 📄 [Download My Resume](https://docs.google.com/document/d/1eyTd3WREtfPNILZuGd4UHXfHOeym0eJL2X8z33WpNw0/edit?usp=sharing)
