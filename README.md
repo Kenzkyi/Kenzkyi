@@ -5,17 +5,6 @@ I am an innovative Frontend Developer with over a year of experience building im
 
 ---
 
-## 🛠️ My Tech Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
 ## 🚀 Key Projects & Impact
 
 ### 🎓 UTME/JAMB Mock Exam Platform
@@ -30,12 +19,6 @@ I am an innovative Frontend Developer with over a year of experience building im
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenzkyi&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzkyi&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 🛠️ Technical Stack
 
 | Category | Tools |
@@ -43,6 +26,7 @@ I am an innovative Frontend Developer with over a year of experience building im
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 | **State Management** | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) ![Context API](https://img.shields.io/badge/-Context_API-000000?style=flat-square&logo=react) |
 | **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
 ---
 
 ## 📈 Contribution Streak
