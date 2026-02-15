@@ -31,7 +31,7 @@ I am an innovative Frontend Developer with over a year of experience building im
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenzkyi&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Kenzkyi]&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzkyi&layout=compact&theme=tokyonight)
 
 ---
